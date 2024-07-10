@@ -5,9 +5,9 @@ Pennywise is a simple and efficient React-based expense tracker application that
 
 Track your expenses and manage your finances with Pennywise, a simple and efficient expense tracker built using the MERN stack.
 
-- Deployed Site: [Link to Deployed Site](https://www.yourdeployedsite.com)
-- Final Project Blog Article: [Link to Blog Post](https://www.medium.com/@yourblogarticle)
-- Author(s) LinkedIn: [Author Name](https://www.linkedin.com/in/authorname)
+- Deployed Site: [Link to Deployed Site](https://pennywise-frontend.onrender.com/)
+- Final Project Blog Article: [Link to Blog Post](https://www.linkedin.com/posts/deborah-ketema_github-deborahambelopennywisefrontend-activity-7216781185987858433-0Cgr?utm_source=share&utm_medium=member_desktop)
+- Author(s) LinkedIn: [Author Name](https://www.linkedin.com/in/deborah-ketema)
 
 ## Table of Contents
 - [Installation](#installation)
