@@ -7,7 +7,7 @@ Track your expenses and manage your finances with Pennywise, a simple and effici
 
 - Deployed Site: [Link to Deployed Site](https://pennywise-frontend.onrender.com/)
 - Final Project Blog Article: [Link to Blog Post](https://www.linkedin.com/posts/deborah-ketema_github-deborahambelopennywisefrontend-activity-7216781185987858433-0Cgr?utm_source=share&utm_medium=member_desktop)
-- Author(s) LinkedIn: [Author Name](https://www.linkedin.com/in/deborah-ketema)
+- Author(s) LinkedIn: [Deborah Ketema](https://www.linkedin.com/in/deborah-ketema)
 
 ## Table of Contents
 - [Installation](#installation)
